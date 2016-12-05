@@ -30,6 +30,10 @@
           <option name="url" value="https://bitbucket.org/rsaadi2/home7" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/egaia/AlgorithmAndDataStructure/tree/master/home7" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Koodid/JAVA/Algoritmid" />
